@@ -5,6 +5,7 @@ body{
 .intro{
     background-image: url("https://d1x9a8onyzyjg4.cloudfront.net/76bb-77994467-B06542.jpg");
     background-size: cover;
+    background-position: center;
     min-height: 100vh;
     display: flex;
     align-items: center;
